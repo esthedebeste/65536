@@ -1,0 +1,17 @@
+html {
+	background-color: #38002e;
+	color: #fff;
+	font-family: "Trebuchet MS", system-ui, sans-serif;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
